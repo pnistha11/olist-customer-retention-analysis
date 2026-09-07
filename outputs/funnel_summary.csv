@@ -1,0 +1,6 @@
+stage,orders,pct_of_placed,step_conversion_pct,dropped_here
+"1. Placed",99441,100.00,NULL,NULL
+"2. Approved",99281,99.84,99.84,160
+"3. Shipped",97644,98.19,98.35,1637
+"4. Delivered",96461,97.00,98.79,1183
+"5. Reviewed",95814,96.35,99.33,647

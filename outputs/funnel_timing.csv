@@ -1,0 +1,6 @@
+transition,n_orders,median_hours,median_days,mean_days,p90_days
+"placed -> approved",99281,0.3,0.01,0.43,1.44
+"approved -> shipped",96286,44.4,1.85,2.86,6.03
+"shipped -> delivered",96452,170.4,7.10,9.33,18.90
+"delivered -> reviewed",175092,6.2,0.26,0.40,0.54
+"placed -> delivered(end to end)",96476,245.2,10.22,12.56,23.10
